@@ -31,5 +31,5 @@ Support Vector Machine
 
 Naive Bayes
 
-K-Nearest Neighbors Results: The Random Forest Classifier demonstrated superior performance, achieving an accuracy of 74.50%.
+K-Nearest Neighbors Results: The Random Forest Classifier demonstrated superior performance, achieving an accuracy of 77.50%.
 Conclusion The Random Forest Classifier emerged as the most effective model for predicting shooting incident outcomes. This achievement is a result of rigorous data preprocessing, including the management of categorical features, handling missing values, and mitigating class imbalance.
